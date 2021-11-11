@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Steeve
+Build-Jdk: 14.0.2
+Main-Class: de.hfu.Main
+Created-By: Maven Integration for Eclipse
+
